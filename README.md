@@ -1,4 +1,4 @@
-.<!-- Animated Banner -->
+<!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dhruv%20Ohlan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 <!-- Typing Animation -->
